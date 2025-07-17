@@ -15,7 +15,6 @@ The NL2Cypher application offers the following key capabilities:
 
     Gradio User Interface: Provides an intuitive web interface for configuration, query input, and displaying results.
 
-Installation
 
 To set up and run the NL2Cypher application, follow these steps:
 
@@ -49,8 +48,6 @@ To set up and run the NL2Cypher application, follow these steps:
         GEMINI_API_KEY="your_gemini_api_key_here"
 
         Alternatively, you can directly paste your API key into the "Gemini API Key" field in the Gradio UI after launching the application.
-
-Usage
 
 To run the NL2Cypher application:
 
