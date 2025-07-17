@@ -580,5 +580,5 @@ with gr.Blocks(title="NL2Cypher Advanced") as demo:
 # To run the Gradio app
 if __name__ == "__main__":
     # Ensure ChromaDB directory exists if not in-memory
-    os.makedirs("./chroma_data", exist_ok=True) # Uncomment if you want persistent ChromaDB
+    os.makedirs("./chroma_data", exist_ok=True)
     demo.launch()
